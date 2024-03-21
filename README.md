@@ -1,0 +1,1 @@
+La práctica de Git es un proceso colaborativo y organizado para el desarrollo de software utilizando el sistema de control de versiones Git. Esta práctica implica una serie de pasos y técnicas diseñadas para facilitar la colaboración entre desarrolladores, mantener un historial claro de cambios en el código y garantizar la integridad y la estabilidad del proyecto.
